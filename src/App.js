@@ -29,7 +29,7 @@ const App = ({classes: {wrapper}}) => {
   
   const getFields = () => {
     const fields = [];
-    for(let i = 0; i < 20; i++) {
+    for(let i = 0; i < 50; i++) {
       fields.push({
         label: `Field ${i+1}`,
         id: `field_${i+1}`
