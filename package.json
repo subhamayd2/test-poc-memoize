@@ -1,7 +1,9 @@
 {
   "name": "test-poc-memoize",
   "version": "0.1.0",
-  "private": true,
+  "repository": {
+    "url": "git://github.com/subhamayd2/test-poc-memoize.git"
+  },
   "dependencies": {
     "@material-ui/core": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
