@@ -1,6 +1,11 @@
 {
   "name": "test-poc-memoize",
   "version": "0.1.0",
+  "author": {
+    "name": "Subhamay Dutta",
+    "email": "subhamay.live@live.com"
+  },
+  "private": true,
   "repository": {
     "url": "git://github.com/subhamayd2/test-poc-memoize.git"
   },
